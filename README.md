@@ -4,7 +4,7 @@ voice navigation for hackathon
 
 ## Getting Started
 
-first do npm install -g http-server then cd to the directory and run the command http-server
+first do npm install -g http-server then cd to the directory and run the command http-server then navigate to http://localhost:8080 in chrome
 
 ## Voice Commands
 'go to about us'
